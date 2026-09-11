@@ -1,6 +1,6 @@
 # Unrattle
 
-A practical, action-first wellbeing app for young men — MSc design research project.
+A practical, action-first wellbeing app for young men — MSc research major project.
 
 When a user is stressed, Unrattle asks how they feel, how much time they have and where they are, then offers a small set of **Rescue Cards**: concrete things to do in that moment, rather than prompts to talk about feelings.
 
